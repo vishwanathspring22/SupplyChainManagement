@@ -1,4 +1,4 @@
-# SupplyChainManagement
+# Supply Chain Management Case Study of Tesco PLC
 Tesco PLC Supply Chain Management Case Study
 
 The coursework delves into the supply chain disruptions faced by Tesco PLC and offers recommendations for improvement. Tesco, a prominent retail industry player globally, encountered significant challenges despite its resilient supply chain. The analysis commences with an overview of Tesco's supply chain management, highlighting its lean management and just-in-time concepts, along with effective information flow through electronic point of sale systems.
